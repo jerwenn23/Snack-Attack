@@ -1,4 +1,3 @@
-```
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -176,4 +175,3 @@ pp.onclick=()=>{playing=!playing;icon();try{if(AC)playing?AC.resume():AC.suspend
 </script>
 </body>
 </html>
-```
